@@ -22,4 +22,9 @@ function trial(){
     }
     chai();//output is undefined this not used with function
     const myArray= [2,4,5,6];
+    //object in js
+    const JsUser={
+        name:"ankit",
+        
+    }
     
